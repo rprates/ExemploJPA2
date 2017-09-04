@@ -1,0 +1,1 @@
+* Exemplo de projeto Java com acesso a banco de dados MySQL usando JPA
